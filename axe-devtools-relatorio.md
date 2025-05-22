@@ -2,7 +2,7 @@
  
 **Ferramenta utilizada:** axe DevTools  
 **URL testada:** [https://www.gov.pt](https://www.gov.pt)  
-**Data do teste:** [adicione a data do seu teste]
+**Data do teste:** [21/05/2025]
  
 ### Informações gerais:
 - Total de *issues* detectadas: **3**
