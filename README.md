@@ -1,30 +1,31 @@
-# Estudo de Acessibilidade – ePortugal.gov.pt
+# Acessibilidade ePortugal
  
-Este projeto é um estudo de caso feito por mim, Michelle Silva, com foco na análise de acessibilidade do portal [ePortugal.gov.pt](https://eportugal.gov.pt), um site do setor público de Portugal. O objetivo é identificar pontos de melhoria, aplicar boas práticas e demonstrar habilidades práticas na área de qualidade de software, com ênfase em acessibilidade web.
+Este repositório foi criado com o objetivo de documentar e compartilhar práticas relacionadas à **acessibilidade digital** no portal ePortugal. A iniciativa visa promover a inclusão, garantindo que o site esteja acessível a todas as pessoas, independentemente de suas habilidades.
  
-## Ferramentas Utilizadas
+## Estrutura do Repositório
  
-- **Lighthouse** (Google Chrome DevTools)
-- **WAVE** ([wave.webaim.org](https://wave.webaim.org/))
-- **axe DevTools** (extensão para navegador)
+- `relatorio/`  
+  Contém documentos e relatórios de testes e análises realizados.
  
-## Estrutura do Projeto
+- `capturas/`  
+  Inclui imagens e evidências capturadas durante a avaliação.
  
-- `/relatorio/`: Relatório técnico em português e inglês (.docx e .pdf)
-- `/capturas/`: Evidências visuais dos problemas encontrados
-- `/ferramentas/`: Resultados brutos dos testes
+- `ferramentas/`  
+  Contém arquivos de suporte e recursos utilizados durante a execução dos testes (ex: ferramentas automatizadas, scripts ou arquivos auxiliares).
  
 ## Objetivo
  
-Este estudo faz parte do meu plano de desenvolvimento individual como QA. Além disso, ele compõe meu portfólio técnico com foco em oportunidades futuras em QA com foco em acessibilidade, especialmente no mercado europeu.
+Este projeto tem como foco:
  
-## Autor
+- Avaliar a conformidade com os padrões de acessibilidade (como WCAG 2.1).
+- Registrar pontos de melhoria encontrados durante as análises.
+- Sugerir correções e boas práticas para o time de desenvolvimento e design.
  
-**Michelle Silva**  
-LinkedIn: [https://www.linkedin.com/in/michelleesilva/]
+## Contribuições
+ 
+Contribuições são bem-vindas! Se você deseja sugerir melhorias ou relatar novos testes, fique à vontade para abrir uma issue ou pull request.
  
 ---
  
-**Status do projeto:** Em andamento
-gov.pt
+**Autoria:** Michelle Silva
  
